@@ -1,0 +1,6 @@
+wendjia:
+  name: wendjia
+  title: wendjia title
+  showName: ${wendjia.name} ${wendjia.title} ${random.int}
+server:
+  port: 8081
